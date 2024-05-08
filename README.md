@@ -13,4 +13,5 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+- Hyperlink the About the coffee shop to a photo gallery so that the people who wouldn't have access to certain social media outlets still have access to certain content.
+-
